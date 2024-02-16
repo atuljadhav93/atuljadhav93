@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul Jadhav</h1>
-<h3 align="center">I am an enthusiastic frontend developer hailing from the vibrant tech landscape of India.</h3>
+<h3 align="center">I am an enthusiastic frontend developer hailing from the vibrant tech landscape of Bharat</h3>
 
 - 👨‍💻 All of my projects are available at [https://atuljadhav93.github.io/Portfolio/](https://atuljadhav93.github.io/Portfolio/)
 
