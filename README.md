@@ -20,6 +20,7 @@
 <a href="https://www.youtube.com/c/techedumeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techedumeet" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atuljadhav93&show_icons=true&locale=en&layout=compact" alt="atuljadhav93" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atuljadhav93&show_icons=true&locale=en" alt="atuljadhav93" /></p>
